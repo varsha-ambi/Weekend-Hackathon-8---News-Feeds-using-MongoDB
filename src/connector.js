@@ -16,3 +16,4 @@ newsArticleModel = mongoose.model('dailynews', newsArticleSchema)
 
 
 exports.newsArticleModel = newsArticleModel;
+© 2020 GitHub, Inc.
